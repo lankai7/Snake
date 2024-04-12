@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "snake", "snake\snake.vcxproj", "{9F4DA17D-8F39-4010-961F-948A1E7742AD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "贪吃蛇plus", "贪吃蛇plus\贪吃蛇plus.vdproj", "{AA25F0FC-60A6-416C-B360-B9F02B77B0DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4DA17D-8F39-4010-961F-948A1E7742AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F4DA17D-8F39-4010-961F-948A1E7742AD}.Debug|Win32.Build.0 = Debug|Win32
+		{9F4DA17D-8F39-4010-961F-948A1E7742AD}.Release|Win32.ActiveCfg = Release|Win32
+		{9F4DA17D-8F39-4010-961F-948A1E7742AD}.Release|Win32.Build.0 = Release|Win32
+		{AA25F0FC-60A6-416C-B360-B9F02B77B0DE}.Debug|Win32.ActiveCfg = Debug
+		{AA25F0FC-60A6-416C-B360-B9F02B77B0DE}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
